@@ -1,1 +1,0 @@
-we can configure uart settings in STM32 using stmcube ide settings and allows us to edit
