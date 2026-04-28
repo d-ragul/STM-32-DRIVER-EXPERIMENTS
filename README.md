@@ -106,3 +106,4 @@ VLSI And Embedded Systems  Engineering
 ## 🔹 Note
 
 This repository is part of my preparation for embedded systems roles and focuses on practical, industry-relevant skills rather than only academic understanding.
+datasheet for reference https://www.st.com/resource/en/datasheet/DM00507199.pdf
