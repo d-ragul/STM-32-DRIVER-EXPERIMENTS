@@ -1,2 +1,0 @@
-// LED Toggle (STM32 HAL)
-HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
